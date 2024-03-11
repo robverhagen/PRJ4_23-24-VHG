@@ -1,0 +1,83 @@
+@charset "utf-8";
+
+.pipi {
+    color: #BE3D3F;
+}
+.lala {
+       	font-family: "Micro 5", sans-serif;
+}
+.myblue {
+    color: #131AC8;	
+}
+.mybox {
+    width: 263px;
+    height: 240px;
+    border: 3px solid #14C502;
+    background-color: #9DB90D;
+    margin-top: 24px;
+    margin-right: 24px;
+    margin-bottom: 24px;
+    margin-left: 24px;
+    padding-top: 19px;
+    border-top-right-radius: 50px;
+}
+.myzaza {
+    background-color: #F79104;	
+}
+.butrob {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+a:hover {
+    color: #55090B;
+    background-color: #E8D527;
+}
+
+button:hover {
+    color: #C90104;
+    border: thin dashed #AD0205;
+    background-color: #F9F9F9;
+}
+.mycelldata {
+
+}
+.mybgcell1 {;
+	    background-color:#AB85CC;
+}
+.mybgcell2 {
+	    background-color:#BF7B7C;
+}
+.mybgcell3 {
+	    background-color:#86D8A6;
+}
+.mybgcell4 {
+	    background-color:#D73769
+}
+
+.toto {
+    color: #E5090C;
+    font-weight: bold;	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
